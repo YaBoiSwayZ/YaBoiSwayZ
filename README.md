@@ -16,13 +16,13 @@
 
 <h2>Technologies I Work With:</h2>
 
-![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%2300599C.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=c%23&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%2300599C.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%2300599C.svg?style=for-the-badge&logo=php&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%2300599C.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-%2300599C.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper-%2300599C.svg?style=for-the-badge&logo=juniper&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%2300599C.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%2300599C.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%2300599C.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%2300599C.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![BGP](https://img.shields.io/badge/BGP-%2300599C.svg?style=for-the-badge)
 
 <h2>Databases I Use:</h2>
 
