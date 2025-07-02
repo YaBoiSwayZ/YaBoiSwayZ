@@ -26,8 +26,11 @@
 
 <h2>Databases I Use:</h2>
 
-![MongoDB](https://img.shields.io/badge/mongodb-%2300599C.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-%2300599C.svg?style=for-the-badge&logo=influxdb&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%2300599C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%2300599C.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%2300599C.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 
 <h2>Contact Me:</h2>
 
