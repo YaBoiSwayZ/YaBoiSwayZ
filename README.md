@@ -1,6 +1,6 @@
 <h1>I am SwayZ <img src="https://cdn.discordapp.com/emojis/1055063219800117268.gif" height="35px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFFF&random=false&width=435&lines=Network+Engineer+%26+Certified+Systems+Administrator+%26+Telecommunications+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A039F7&width=435&lines=Systems+Administration+Specialist;Certified+Network+Engineer)](https://git.io/typing-svg)
 
 <h2>About Me:</h2>
 <p>I'm a network engineer from Australia with over a decade of hands-on experience. I hold certifications in systems administration and telecommunications, and I specialize in designing and maintaining resilient, secure networks.</p>
@@ -31,5 +31,5 @@
 
 <h2>Contact Me:</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%2300599C.svg?logo=discord&logoColor=white&style=for-the-badge)](discord.gg/emAYhJmn)
-[![Email](https://img.shields.io/badge/Email-%2300599C.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:contact@swayz.dev)
+[![Discord](https://img.shields.io/badge/Discord-%2300599C.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/emAYhJmn)
+[![Email](https://img.shields.io/badge/Email-%2300599C.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yaboiswayz@gmail.com)
