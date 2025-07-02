@@ -1,4 +1,4 @@
-<h1>I am SwayZ <img src="https://cdn.discordapp.com/emojis/1055063219800117268.gif" height="35px"></h1>
+<h1>I am SwayZ <img src="https://github.com/YaBoiSwayZ/Discord-Guild-Cloner/blob/d1ad96d64a5e5fd46e9d0e3ad863eb255bc749a5/ClonedServers/Miami%20Roleplay%20_%20Releasing%20July%201st!/emojis/6906weed.png" height="35px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A039F7&width=435&lines=Systems+Administration+Specialist;Certified+Network+Engineer)](https://git.io/typing-svg)
 
